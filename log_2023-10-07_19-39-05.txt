@@ -1,0 +1,83 @@
+Duplicate Files:
+C:\Users\hp\Desktop\Python\Automation\PPA\a.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Area - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Arithmatic - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Array1 - Copy (2) - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Array1 - Copy (2) - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Array1 - Copy (3) - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Array2 - Copy - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Array2 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Array2 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Array3 - Copy - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Array3 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Array3 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Automation1 - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Automation2 - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Automation3 - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Command2 - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Decorator - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Decorator1 - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Decorator2 - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\File_Automation1 - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\File_Automation2 - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Function3 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Function3 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Function3 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Function4 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\FunctionsDemo - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Increament1 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Increament1 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Increament1 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Iteration1 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Iteration3 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\iteration4 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\iteration4 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\iteration4 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Iteration5 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Iteration5 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Iteration5 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Marvellous - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Marvellous - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Marvellous - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Marvellous1 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Marvellous1 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Marvellous1 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Pointer1 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\process_log.txt
+C:\Users\hp\Desktop\Python\Automation\PPA\Rec1 - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Rec2 - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\rec3 - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Rec4 - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Rec5 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Rec6 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Rec7 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Rec8 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Rec9 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Sequence - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Sequence - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Sequence - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\SizeOf - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\SizeOf - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\SizeOf - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure1 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure1 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure1 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure11 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure11 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure11 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure4 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure4 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure4 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure9 - Copy - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure9 - Copy - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Structure9 - Copy.exe
+C:\Users\hp\Desktop\Python\Automation\PPA\Task_Schedule1 - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Task_Schedule2 - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Trydemo1 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Trydemo2 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Trydemo3 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Trydemo4 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Trydemo5 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\Trydemo6 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\trydemo7 - Copy - Copy - Copy - Copy.py
+C:\Users\hp\Desktop\Python\Automation\PPA\xyz - Copy.exe
